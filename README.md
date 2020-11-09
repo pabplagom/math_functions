@@ -3,4 +3,4 @@
 Basic random math functions:
 
 - Calculate prime numbers
-- Factorial decomposition
+- Prime factorization
