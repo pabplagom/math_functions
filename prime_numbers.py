@@ -62,7 +62,7 @@ def primeimproved(n):
     print("\n Execution time: %s s" %(time.time()-start_time))
     return primedata
 
-#factorialdecomposition: find the descomposition of a given number n
+# Prime factorization: find the descomposition of a given number n
 # Input: number to be decomposed
 # Output: factors
 
