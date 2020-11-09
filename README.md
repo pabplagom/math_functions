@@ -1,2 +1,2 @@
 # math_functions
-Random math functions
+Basic random math functions to calculate prime numbers
